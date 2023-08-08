@@ -1,0 +1,2 @@
+python = 19.2
+request = 17.2
